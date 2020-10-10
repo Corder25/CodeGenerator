@@ -1,0 +1,59 @@
+
+   
+
+   
+}
+
+
+.row{
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+
+.col-4 {
+border: 5px solid chartreuse;
+display: block;
+
+padding: 15px;
+}
+
+.img-fluid {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.header {
+
+
+    font-size: 45px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: darkblue 15px solid;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.abtme {
+ display: block;
+margin-left: auto;
+margin-right: auto;
+padding: 15px;
+}
+.abtimg {
+    margin-left:2%;
+   float:left; 
+   padding: 5px;
+
+   } 
+   
+   .abttxt {
+      
+       height:auto;
+       padding:1%;
+       font-size: 18px;
+       margin-left: 20%;
+       margin-right: 20%;
+   }
